@@ -1,0 +1,5 @@
+{
+  "name": "Ordering System",
+  "description": "A modern, dark-themed multi-restaurant food ordering platform with comprehensive role-based access control (Owner, Admin, User), real-time dashboarding, and dynamic menu management.",
+  "requestFramePermissions": []
+}
